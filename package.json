@@ -1,0 +1,10 @@
+{
+  "name": "stremiotv-tizenbrew",
+  "appName": "StremioTV",
+  "version": "1.0.0",
+  "description": "Stremio on a Samsung TV through a self-hosted StremioTV server on the LAN.",
+  "packageType": "mods",
+  "websiteURL": "http://192.168.1.17:8098/",
+  "main": "inject.js",
+  "keys": ["MediaPlayPause", "MediaPlay", "MediaPause", "MediaStop", "MediaFastForward", "MediaRewind"]
+}
